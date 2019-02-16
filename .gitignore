@@ -63,3 +63,5 @@ build.log
 
 **/*.releaseBackup
 **/*.versionsBackup
+
+.attach*
