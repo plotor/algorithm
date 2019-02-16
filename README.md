@@ -1,2 +1,3 @@
-# algorithm
-algorithm design and online judge
+# Algorithm
+
+Algorithm design and online judge.
